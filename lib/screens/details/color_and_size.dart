@@ -43,7 +43,7 @@ class ColorAndSize extends StatelessWidget {
                   text: "${product.size} m",
                   style: Theme.of(context)
                       .textTheme
-                      .headline5
+                      .headline6
                       .copyWith(fontWeight: FontWeight.bold),
                 )
               ],
