@@ -60,7 +60,27 @@ List<Product> products = [
     image: "assets/images/4.png",
     color: Color(0xFF3D82AE),
     arUrl: "https://go.echoar.xyz/ykvh",
-  )
+  ),
+
+  Product(
+      id: 5,
+      title: "Matrox TV",
+      price: 1777,
+      size: "1.2 X 1.2 X 5",
+      description: "Table where the hacking takes place",
+      image: "assets/images/5.png",
+      color: Color(0xFF989493),
+      arUrl: "https://go.echoar.xyz/6mGu"),
+
+  Product(
+      id: 6,
+      title: "Hacking Table",
+      price: 1994,
+      size: "1.2 X 1.2 X 5",
+      description: "Table where the hacking takes place",
+      image: "assets/images/6.png",
+      color: Color(0xFFFB7883),
+      arUrl: "https://go.echoar.xyz/kJui"),
 ];
 
 String dummyText =

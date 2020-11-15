@@ -40,10 +40,10 @@ class ColorAndSize extends StatelessWidget {
               children: [
                 TextSpan(text: "Size\n"),
                 TextSpan(
-                  text: "${product.size} cm",
+                  text: "${product.size} m",
                   style: Theme.of(context)
                       .textTheme
-                      .headline5
+                      .headline6
                       .copyWith(fontWeight: FontWeight.bold),
                 )
               ],

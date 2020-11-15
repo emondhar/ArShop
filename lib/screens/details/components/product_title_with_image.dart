@@ -19,7 +19,7 @@ class ProductTitleWithImage extends StatelessWidget {
         crossAxisAlignment: CrossAxisAlignment.start,
         children: <Widget>[
           Text(
-            "Aristocratic ",
+            "Beautiful ",
             style: TextStyle(color: Colors.white),
           ),
           Text(
