@@ -32,7 +32,7 @@ List<Product> products = [
       description: "Blue sofa for EchoAR",
       image: "assets/images/1.png",
       color: Color(0xFF3D82AE),
-      arUrl: "https://go.echoar.xyz/ykvh"),
+      arUrl: "https://go.echoar.xyz/QU7P"),
   Product(
       id: 2,
       title: "Samasource Sofa",
